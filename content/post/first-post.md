@@ -6,7 +6,7 @@ tags = []
 draft = true
 date = "2017-07-02T20:02:12-05:00"
 scripts = []
-css = ["/css/img.css"]
+css = []
 +++
 
 Welcome to my travel blog! This is a blog to describe the trip I am taking with

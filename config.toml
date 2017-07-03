@@ -4,8 +4,8 @@ baseurl = "http://according-to-japlan.tk/"
 theme = "hugo-geo"
 
 [params]
-	# Don't render the rotating globe in the sidebar
-	showglobe = false
+	# Render the rotating globe in the sidebar
+	showglobe = true
 
 	# Include favicon
 	#favicon = "favicon.ico"
