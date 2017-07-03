@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "According to Ja-plan"
-baseurl = "http://according-to-japlan.tk"
+baseurl = "http://according-to-japlan.tk/"
 theme = "hugo-geo"
 
 [params]
