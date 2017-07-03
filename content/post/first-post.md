@@ -15,5 +15,7 @@ we're staying in Minneapolis for a week for [Summer Games Done
 Quick](https://gamesdonequick.com/), then we're headed to Japan for 4 weeks, and
 finally to South Korea for a week.  It should be a great trip!
 
-![Selfie](/img/selfie.jpg)
-This is us! From left to right there's Michelle, Aaron, and me.
+
+{{< figure src="/img/selfie.jpg"
+    caption="This is us! From left to right there's Michelle, Aaron, and me." >}}
+
