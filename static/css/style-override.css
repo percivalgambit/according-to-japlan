@@ -1,10 +1,13 @@
-/* Make sure images don't overflow beyond the boundaries of the page */
+/* Make sure images don't overflow beyond the boundaries of the page and align
+ * them to the center of the page */
 img {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
-/* Align image caption text to the center of the page */
+/* Align image caption text to the center of the image */
 figcaption > p {
     text-align: center;
 }
