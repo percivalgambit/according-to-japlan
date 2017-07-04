@@ -22,3 +22,5 @@ theme = "hugo-geo"
 	# Title/subtitle for the sidebar
 	#title = ""
 	subtitle = "Lee Ehudin"
+
+	analytics = "UA-102040311-1"
