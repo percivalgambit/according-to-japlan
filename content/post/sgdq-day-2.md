@@ -7,6 +7,8 @@ draft = true
 scripts = []
 css = []
 highlight = true
+lat = 44.977471
+lng = -93.273406
 +++
 
 - Got woken up at 8:30am by housekeeping
@@ -18,3 +20,9 @@ highlight = true
 - No fridge, microwave, or hot water = not many food choices
 - We got peanut butter, nutella, bread, bananas, and apples for sandwiches
 - Back to the room
+- Aaron came back
+- Finished breath of the wild
+- Went to see the sonic speedrun block
+- Went back to the room for dinner
+- Mirror's Edge, Donkey Kong 64, Castlevania, and Jet Set Radio Future
+- Sleep

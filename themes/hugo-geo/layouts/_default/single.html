@@ -4,6 +4,12 @@
 <main>
 	<header>
 		<h1>{{ .Title }}</h1>
+		<h4>
+			{{ .Date.Format "2 January 2006" }}
+		</h4>
+		{{ if and .Params.lat .Params.lng }}
+			{{ partial "single-map.html" .Params }}
+		{{ end }}
 	</header>
 
 	<article>

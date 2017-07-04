@@ -6,7 +6,9 @@ highlight = true
 title = "SGDQ Day 1: This Shopping Mall is Empty"
 description = "Day 1 of Summer Games Done Quick in Minneapolis"
 tags = []
-draft = true
+draft = false
+lat = 44.977471
+lng = -93.273406
 +++
 
 Today began at the early hour of 4:30am, when I had to drag myself out of bed
@@ -27,6 +29,9 @@ Automata](https://en.wikipedia.org/wiki/Nier:_Automata) using only one hand. The
 speedrunner was disabled and had limited use of his right hand, so he learned
 how to play the game using only his left hand. This was a fun speedrun to watch,
 especially since it was so unique.
+
+{{< figure src="/img/minneapolis_hotel.jpg"
+    caption="A picture of our hotel in Minneapolis. Michelle for scale." >}}
 
 After the speedrun was over, we realized we were all starving, so we went
 outside to find something to eat and explore Minneapolis. We didn't realize it
@@ -61,6 +66,9 @@ his hand at [Donkey
 Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)). Afterwards, we
 all played [Battletoads](https://en.wikipedia.org/wiki/Battletoads_Arcade), one
 of the hardest arcade games ever, and managed to beat it.
+
+{{< figure src="/img/janky_fridge.jpg"
+    caption="We had leftovers from dinner but no fridge to store them in, so we improvised." >}}
 
 We headed back to the hotel room, but we were all exhausted at this point, so we
 were all falling asleep while we were hanging out there. There was one final
