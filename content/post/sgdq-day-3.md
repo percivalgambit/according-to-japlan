@@ -12,9 +12,10 @@ lng = -93.273406
 +++
 
 Today we woke up extra early to see a speedrun of the game [I am
-Bread](http://www.iambreadgame.com/overview/), a weird game about bread.
-Afterwards, Aaron went to the cafe to do work and Michelle and I went back to
-the hotel room, had breakfast, and watched an episode of [Tsurezure
+Bread](http://www.iambreadgame.com/overview/), a weird game about bread that one
+review said "[has] five stars for music, but two for the game".  Afterwards,
+Aaron went to the cafe to do work and Michelle and I went back to the hotel
+room, had breakfast, and watched an episode of [Tsurezure
 Children](https://en.wikipedia.org/wiki/Tsurezure_Children) while we were
 waiting for the pizza we had ordered the previous day. We finally got our pizza
 and ate a few slices for lunch. I was very tired at this point, so I took a nap
