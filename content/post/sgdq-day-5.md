@@ -13,10 +13,11 @@ lng = -93.273406
 
 Today we woke up kinda late at 11am, and went down to the speedrunning room to
 see a run of [Shadow of the
-Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus). Today we wanted
-to get International Drivers Permits so we could do a tour of Tokyo on go-karts,
-so after the run we went next door to the Minneapolis AAA to get the permits.
-After getting the permits, we went back to the speedrunning room to see a run of
+Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus). We wanted to
+get International Drivers Permits today so we could do a tour of Tokyo on
+go-karts once we got to Japan, so after the run we went next door to the
+Minneapolis AAA to get the permits.  After getting the permits, we went back to
+the speedrunning room to see a run of
 [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)). We had some free
 time before the next speedrun that we wanted to see, so we went back to the room
 to hang out, then got dinner at the hotel.

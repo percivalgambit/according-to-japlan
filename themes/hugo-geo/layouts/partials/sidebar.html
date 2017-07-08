@@ -5,11 +5,11 @@
 		{{ else }}
 			<h1 class="text-center"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
 		{{ end }}
-		
+
 		{{ if isset .Site.Params "subtitle" }}
-			<small class="text-center center-block">{{ .Site.Params.subtitle }}</small>
+			<h2><small class="text-center center-block">{{ .Site.Params.subtitle }}</small></h2>
 		{{ end }}
-		
+
 		{{ if isset .Site.Params "profilepic" }}
 			<img id="profile-pic" src="{{ .Site.BaseURL }}/{{ .Site.Params.profilepic }}" alt="My Picture" class="img-circle center-block">
 		{{ end }}

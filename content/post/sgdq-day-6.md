@@ -15,5 +15,6 @@ lng = -93.273406
 - SGDQ pizza party
 - Kingdom hearts II + disney songs
 - to arcade room for jubeat, sunset riders, and ddr
-- Sumer mario warpless relay race
-
+- Super mario warpless relay race
+- Metroid Block
+- Final Fantasy VII

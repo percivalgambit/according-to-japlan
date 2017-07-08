@@ -8,7 +8,7 @@ theme = "hugo-geo"
 	showglobe = true
 
 	# Include favicon
-	#favicon = "favicon.ico"
+	favicon = "favicon.ico"
 
 	# Email
 	email = "percivalgambit@gmail.com"
@@ -17,10 +17,19 @@ theme = "hugo-geo"
 	header = "According to Ja-plan"
 
 	# Sidebar profile picture
-	#profilepic = ""
+	profilepic = "img/profile.png"
 
 	# Title/subtitle for the sidebar
 	#title = ""
 	subtitle = "Lee Ehudin"
 
 	analytics = "UA-102040311-1"
+
+	# Nav links below the profile picture
+	[[params.navlinks]]
+	name = "About"
+	url = "about/"
+
+	[[params.navlinks]]
+	name = "Blog"
+	url = "post/"
