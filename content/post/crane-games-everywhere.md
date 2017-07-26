@@ -25,3 +25,6 @@ description = "We get to the onsen hotel in Hokkaido and go exploring"
 - we decided to take a walk outside to see if we could get to a trail for one of
   the nearby mountains, but gave up after walking 1.5 km
 - back to the hotel
+- dinner in the hotel
+- onsen
+- bad anime mashups
