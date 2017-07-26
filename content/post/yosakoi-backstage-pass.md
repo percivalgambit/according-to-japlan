@@ -18,3 +18,5 @@ date = "2017-07-16T17:19:07+09:00"
 - we had to leave to go to mario kart in shinagawa
 - when we got to mario kart, michelle was feeling sick, so we decided to
   reschedule and go back to the hostel to rest
+- back to hostel
+- got curry for dinner
