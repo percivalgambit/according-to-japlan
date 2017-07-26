@@ -7,6 +7,8 @@ description = "We spend a day in Akihabara and get our luggage back from Air Can
 date = "2017-07-13T23:07:21+09:00"
 tags = []
 draft = false
+lat = 35.691536
+lng = 139.781384
 +++
 
 We started out the day by grabbing a quick breakfast from 7-Eleven, then we
